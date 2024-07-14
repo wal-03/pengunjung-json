@@ -1,0 +1,54 @@
+[ {"id": 1, "jenis_tiket": "Reguler", "waktu_kedatangan": "09:00:00 WIB"},
+{"id": 2, "jenis_tiket": "VIP", "waktu_kedatangan": "09:02:00 WIB"}, {"id": 3,
+"jenis_tiket": "Super VIP", "waktu_kedatangan": "09:05:00 WIB"}, {"id": 4, "jenis_tiket":
+"Reguler", "waktu_kedatangan": "09:10:00 WIB"}, {"id": 5, "jenis_tiket": "VIP",
+"waktu_kedatangan": "09:12:00 WIB"}, {"id": 6, "jenis_tiket": "Super VIP",
+"waktu_kedatangan": "09:15:00 WIB"}, {"id": 7, "jenis_tiket": "Reguler",
+"waktu_kedatangan": "09:20:00 WIB"}, {"id": 8, "jenis_tiket": "VIP", "waktu_kedatangan":
+"09:22:00 WIB"}, {"id": 9, "jenis_tiket": "Super VIP", "waktu_kedatangan": "09:25:00 WIB"},
+{"id": 10, "jenis_tiket": "Reguler", "waktu_kedatangan": "09:30:00 WIB"}, {"id": 11,
+"jenis_tiket": "VIP", "waktu_kedatangan": "09:32:00 WIB"}, {"id": 12, "jenis_tiket": "Super VIP", "waktu_kedatangan": "09:35:00 WIB"}, {"id": 13, "jenis_tiket": "Reguler",
+"waktu_kedatangan": "09:40:00 WIB"}, {"id": 14, "jenis_tiket": "VIP", "waktu_kedatangan":
+"09:42:00 WIB"}, {"id": 15, "jenis_tiket": "Super VIP", "waktu_kedatangan": "09:45:00 WIB"}, {"id": 16, "jenis_tiket": "Reguler", "waktu_kedatangan": "09:50:00 WIB"}, {"id": 17,
+"jenis_tiket": "VIP", "waktu_kedatangan": "09:52:00 WIB"}, {"id": 18, "jenis_tiket": "Super VIP", "waktu_kedatangan": "09:55:00 WIB"}, {"id": 19, "jenis_tiket": "Reguler",
+"waktu_kedatangan": "10:00:00 WIB"}, {"id": 20, "jenis_tiket": "VIP", "waktu_kedatangan":
+"10:02:00 WIB"}, {"id": 21, "jenis_tiket": "Super VIP", "waktu_kedatangan": "10:05:00 WIB"}, {"id": 22, "jenis_tiket": "Reguler", "waktu_kedatangan": "10:10:00 WIB"}, {"id": 23,
+"jenis_tiket": "VIP", "waktu_kedatangan": "10:12:00 WIB"}, {"id": 24, "jenis_tiket": "Super VIP", "waktu_kedatangan": "10:15:00 WIB"}, {"id": 25, "jenis_tiket": "Reguler",
+"waktu_kedatangan": "10:20:00 WIB"}, {"id": 26, "jenis_tiket": "VIP", "waktu_kedatangan":
+"10:22:00 WIB"}, {"id": 27, "jenis_tiket": "Super VIP", "waktu_kedatangan": "10:25:00 WIB"}, {"id": 28, "jenis_tiket": "Reguler", "waktu_kedatangan": "10:30:00 WIB"}, {"id": 29,
+"jenis_tiket": "VIP", "waktu_kedatangan": "10:32:00 WIB"}, {"id": 30, "jenis_tiket": "Super VIP", "waktu_kedatangan": "10:35:00 WIB"}, {"id": 31, "jenis_tiket": "Reguler",
+"waktu_kedatangan": "10:40:00 WIB"}, {"id": 32, "jenis_tiket": "VIP", "waktu_kedatangan":
+"10:42:00 WIB"}, {"id": 33, "jenis_tiket": "Super VIP", "waktu_kedatangan": "10:45:00 WIB"}, {"id": 34, "jenis_tiket": "Reguler", "waktu_kedatangan": "10:50:00 WIB"}, {"id": 35,
+"jenis_tiket": "VIP", "waktu_kedatangan": "10:52:00 WIB"}, {"id": 36, "jenis_tiket": "Super VIP", "waktu_kedatangan": "10:55:00 WIB"}, {"id": 37, "jenis_tiket": "Reguler",
+"waktu_kedatangan": "11:00:00 WIB"}, {"id": 38, "jenis_tiket": "VIP", "waktu_kedatangan":
+"11:02:00 WIB"}, {"id": 39, "jenis_tiket": "Super VIP", "waktu_kedatangan": "11:05:00 WIB"}, {"id": 40, "jenis_tiket": "Reguler", "waktu_kedatangan": "11:10:00 WIB"}, {"id": 41,
+"jenis_tiket": "VIP", "waktu_kedatangan": "11:12:00 WIB"}, {"id": 42, "jenis_tiket": "Super VIP", "waktu_kedatangan": "11:15:00 WIB"}, {"id": 43, "jenis_tiket": "Reguler",
+"waktu_kedatangan": "11:20:00 WIB"}, {"id": 44, "jenis_tiket": "VIP", "waktu_kedatangan":
+"11:22:00 WIB"}, {"id": 45, "jenis_tiket": "Super VIP", "waktu_kedatangan": "11:25:00 WIB"}, {"id": 46, "jenis_tiket": "Reguler", "waktu_kedatangan": "11:30:00 WIB"}, {"id": 47,
+"jenis_tiket": "VIP", "waktu_kedatangan": "11:32:00 WIB"}, {"id": 48, "jenis_tiket": "Super VIP", "waktu_kedatangan": "11:35:00 WIB"}, {"id": 49, "jenis_tiket": "Reguler",
+"waktu_kedatangan": "11:40:00 WIB"}, {"id": 50, "jenis_tiket": "VIP", "waktu_kedatangan":
+"11:42:00 WIB"}, {"id": 51, "jenis_tiket": "Super VIP", "waktu_kedatangan": "11:45:00 WIB"}, {"id": 52, "jenis_tiket": "Reguler", "waktu_kedatangan": "11:50:00 WIB"}, {"id": 53,
+"jenis_tiket": "VIP", "waktu_kedatangan": "11:52:00 WIB"}, {"id": 54, "jenis_tiket": "Super VIP", "waktu_kedatangan": "11:55:00 WIB"}, {"id": 55, "jenis_tiket": "Reguler",
+"waktu_kedatangan": "12:00:00 WIB"}, {"id": 56, "jenis_tiket": "VIP", "waktu_kedatangan":
+"12:02:00 WIB"}, {"id": 57, "jenis_tiket": "Super VIP", "waktu_kedatangan": "12:05:00 WIB"}, {"id": 58, "jenis_tiket": "Reguler", "waktu_kedatangan": "12:10:00 WIB"}, {"id": 59,
+"jenis_tiket": "VIP", "waktu_kedatangan": "12:12:00 WIB"}, {"id": 60, "jenis_tiket": "Super VIP", "waktu_kedatangan": "12:15:00 WIB"}, {"id": 61, "jenis_tiket": "Reguler",
+"waktu_kedatangan": "12:20:00 WIB"}, {"id": 62, "jenis_tiket": "VIP", "waktu_kedatangan":
+"12:22:00 WIB"}, {"id": 63, "jenis_tiket": "Super VIP", "waktu_kedatangan": "12:25:00 WIB"}, {"id": 64, "jenis_tiket": "Reguler", "waktu_kedatangan": "12:30:00 WIB"}, {"id": 65,
+"jenis_tiket": "VIP", "waktu_kedatangan": "12:32:00 WIB"}, {"id": 66, "jenis_tiket": "Super VIP", "waktu_kedatangan": "12:35:00 WIB"}, {"id": 67, "jenis_tiket": "Reguler",
+"waktu_kedatangan": "12:40:00 WIB"}, {"id": 68, "jenis_tiket": "VIP", "waktu_kedatangan":
+"12:42:00 WIB"}, {"id": 69, "jenis_tiket": "Super VIP", "waktu_kedatangan": "12:45:00 WIB"}, {"id": 70, "jenis_tiket": "Reguler", "waktu_kedatangan": "12:50:00 WIB"}, {"id": 71,
+"jenis_tiket": "VIP", "waktu_kedatangan": "12:52:00 WIB"}, {"id": 72, "jenis_tiket": "Super VIP", "waktu_kedatangan": "12:55:00 WIB"}, {"id": 73, "jenis_tiket": "Reguler",
+"waktu_kedatangan": "13:00:00 WIB"}, {"id": 74, "jenis_tiket": "VIP", "waktu_kedatangan":
+"13:02:00 WIB"}, {"id": 75, "jenis_tiket": "Super VIP", "waktu_kedatangan": "13:05:00 WIB"}, {"id": 76, "jenis_tiket": "Reguler", "waktu_kedatangan": "13:10:00 WIB"}, {"id": 77,
+"jenis_tiket": "VIP", "waktu_kedatangan": "13:12:00 WIB"}, {"id": 78, "jenis_tiket": "Super VIP", "waktu_kedatangan": "13:15:00 WIB"}, {"id": 79, "jenis_tiket": "Reguler",
+"waktu_kedatangan": "13:20:00 WIB"}, {"id": 80, "jenis_tiket": "VIP", "waktu_kedatangan":
+"13:22:00 WIB"}, {"id": 81, "jenis_tiket": "Super VIP", "waktu_kedatangan": "13:25:00 WIB"}, {"id": 82, "jenis_tiket": "Reguler", "waktu_kedatangan": "13:30:00 WIB"}, {"id": 83,
+"jenis_tiket": "VIP", "waktu_kedatangan": "13:32:00 WIB"}, {"id": 84, "jenis_tiket": "Super VIP", "waktu_kedatangan": "13:35:00 WIB"}, {"id": 85, "jenis_tiket": "Reguler",
+"waktu_kedatangan": "13:40:00 WIB"}, {"id": 86, "jenis_tiket": "VIP", "waktu_kedatangan":
+"13:42:00 WIB"}, {"id": 87, "jenis_tiket": "Super VIP", "waktu_kedatangan": "13:45:00 WIB"}, {"id": 88, "jenis_tiket": "Reguler", "waktu_kedatangan": "13:50:00 WIB"}, {"id": 89,
+"jenis_tiket": "VIP", "waktu_kedatangan": "13:52:00 WIB"}, {"id": 90, "jenis_tiket": "Super VIP", "waktu_kedatangan": "13:55:00 WIB"}, {"id": 91, "jenis_tiket": "Reguler",
+"waktu_kedatangan": "14:00:00 WIB"}, {"id": 92, "jenis_tiket": "VIP", "waktu_kedatangan":
+"14:02:00 WIB"}, {"id": 93, "jenis_tiket": "Super VIP", "waktu_kedatangan": "14:05:00 WIB"}, {"id": 94, "jenis_tiket": "Reguler", "waktu_kedatangan": "14:10:00 WIB"}, {"id": 95,
+"jenis_tiket": "VIP", "waktu_kedatangan": "14:12:00 WIB"}, {"id": 96, "jenis_tiket": "Super VIP", "waktu_kedatangan": "14:15:00 WIB"}, {"id": 97, "jenis_tiket": "Reguler",
+"waktu_kedatangan": "14:20:00 WIB"}, {"id": 98, "jenis_tiket": "VIP", "waktu_kedatangan":
+"14:22:00 WIB"}, {"id": 99, "jenis_tiket": "Super VIP", "waktu_kedatangan": "14:25:00 WIB"}, {"id": 100, "jenis_tiket": "Reguler", "waktu_kedatangan": "14:30:00 WIB"}]
